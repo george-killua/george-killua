@@ -17,7 +17,10 @@ I build clean, reliable apps and websites through **GK Coding**, with a focus on
 | --- | --- | --- |
 | GK Showcase Builder | Interactive business template demos, builder-ready flows, reusable static frontend architecture | [Repo](https://github.com/george-killua/gk-showcase-builder) · [Live](https://showcase.gkcoding.dev) |
 | Ride-Hailing Platform Demo | Booking, dispatch simulation, pricing, live map UI, market configuration | [Repo](https://github.com/george-killua/gk-ride-hailing-platform-demo) · [Live](https://rides.gkcoding.dev) |
+| GK Flutter Service Booking | Responsive Flutter service booking flow with pricing summary and slot selection | [Repo](https://github.com/george-killua/gk-flutter-service-booking) |
 | GK Compose Booking UI | Kotlin, Jetpack Compose, Material 3, service booking flow, premium mobile UI | [Repo](https://github.com/george-killua/gk-compose-booking-ui) |
+| GK Compose Admin Dashboard | Kotlin, Jetpack Compose, dashboard metrics, project pipeline UI | [Repo](https://github.com/george-killua/gk-compose-admin-dashboard) |
+| GK Spring Inquiry API | Spring Boot REST API with validation, health endpoint, inquiry creation, and tests | [Repo](https://github.com/george-killua/gk-spring-inquiry-api) |
 
 ## Tech Stack
 
