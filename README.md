@@ -4,30 +4,33 @@ Software Engineer focused on modern Android, Flutter, and product-focused digita
 
 I build clean, reliable apps and websites through **GK Coding**, with a focus on polished UI, scalable architecture, and practical business outcomes.
 
-## Focus
+## Main Focus
 
-- Android development with Kotlin and Jetpack Compose
+- Android apps with Kotlin and Jetpack Compose
 - Cross-platform apps with Flutter
-- Backend-connected products with Firebase, Spring Boot, and PostgreSQL
+- Backend-connected products with Spring Boot, Firebase, and PostgreSQL
 - UI implementation, refactoring, maintenance, and MVP builds
 
-## Featured Demo Projects
+## Best Projects To Pin
 
-| Project | What it shows | Links |
+| Project | Stack | What it shows |
 | --- | --- | --- |
-| GK Showcase Builder | Interactive business template demos, builder-ready flows, reusable static frontend architecture | [Repo](https://github.com/george-killua/gk-showcase-builder) · [Live](https://showcase.gkcoding.dev) |
-| Ride-Hailing Platform Demo | Booking, dispatch simulation, pricing, live map UI, market configuration | [Repo](https://github.com/george-killua/gk-ride-hailing-platform-demo) · [Live](https://rides.gkcoding.dev) |
-| GK Flutter Service Booking | Responsive Flutter service booking flow with pricing summary and slot selection | [Repo](https://github.com/george-killua/gk-flutter-service-booking) |
-| GK Flutter Restaurant Ordering | Flutter menu ordering flow with category filters, cart state, and pickup slots | [Repo](https://github.com/george-killua/gk-flutter-restaurant-ordering) |
-| GK Compose Booking UI | Kotlin, Jetpack Compose, Material 3, service booking flow, premium mobile UI | [Repo](https://github.com/george-killua/gk-compose-booking-ui) |
-| GK Compose Admin Dashboard | Kotlin, Jetpack Compose, dashboard metrics, project pipeline UI | [Repo](https://github.com/george-killua/gk-compose-admin-dashboard) |
-| GK Compose Fitness Tracker | Kotlin, Jetpack Compose, workouts, habits, stats, and progress UI | [Repo](https://github.com/george-killua/gk-compose-fitness-tracker) |
-| GK Spring Inquiry API | Spring Boot REST API with validation, health endpoint, inquiry creation, and tests | [Repo](https://github.com/george-killua/gk-spring-inquiry-api) |
-| GK Spring Booking API | Spring Boot booking API with slots, request validation, and MockMvc tests | [Repo](https://github.com/george-killua/gk-spring-booking-api) |
+| [GK Showcase Builder](https://github.com/george-killua/gk-showcase-builder) | JavaScript, HTML, CSS | Interactive business templates, builder flows, request handoff |
+| [Ride-Hailing Platform Demo](https://github.com/george-killua/gk-ride-hailing-platform-demo) | JavaScript, Leaflet | Booking, dispatch, pricing, map UI, market configuration |
+| [GK Flutter Service Booking](https://github.com/george-killua/gk-flutter-service-booking) | Flutter, Dart | Responsive service booking flow and conversion-focused UI |
+| [GK Compose Booking UI](https://github.com/george-killua/gk-compose-booking-ui) | Kotlin, Jetpack Compose | Premium Android booking UI with Material 3 |
+| [GK Compose Admin Dashboard](https://github.com/george-killua/gk-compose-admin-dashboard) | Kotlin, Jetpack Compose | Mobile dashboard metrics and project pipeline UI |
+| [GK Spring Booking API](https://github.com/george-killua/gk-spring-booking-api) | Java, Spring Boot | REST API, validation, slots, bookings, and MockMvc tests |
+
+## More Demo Products
+
+- [GK Flutter Restaurant Ordering](https://github.com/george-killua/gk-flutter-restaurant-ordering) - Flutter ordering flow with menu filters, cart state, and pickup slots.
+- [GK Compose Fitness Tracker](https://github.com/george-killua/gk-compose-fitness-tracker) - Android fitness UI with workouts, habits, and progress cards.
+- [GK Spring Inquiry API](https://github.com/george-killua/gk-spring-inquiry-api) - Spring Boot inquiry/contact API with validation and tests.
 
 ## Tech Stack
 
-`Kotlin` · `Android` · `Jetpack Compose` · `Flutter` · `Kotlin Multiplatform` · `Firebase` · `Spring Boot` · `PostgreSQL`
+`Kotlin` · `Android` · `Jetpack Compose` · `Flutter` · `Dart` · `Kotlin Multiplatform` · `Java` · `Spring Boot` · `Firebase` · `PostgreSQL`
 
 ## Working Style
 
