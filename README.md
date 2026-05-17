@@ -11,13 +11,13 @@ I build clean, reliable apps and websites through **GK Coding**, with a focus on
 - Backend-connected products with Firebase, Spring Boot, and PostgreSQL
 - UI implementation, refactoring, maintenance, and MVP builds
 
-## Featured Work
+## Featured Demo Projects
 
-| Project | What it shows | Link |
+| Project | What it shows | Links |
 | --- | --- | --- |
-| GK Showcase Builder | Interactive template demos, request flow, reusable static frontend architecture | [Repository](https://github.com/george-killua/gk-showcase-builder) |
-| Ride-Hailing Platform Demo | Booking, dispatch simulation, pricing, live map UI, market configuration | [Repository](https://github.com/george-killua/gk-ride-hailing-platform-demo) |
-| GK Compose Booking UI | Jetpack Compose, Material 3, service booking flow, premium mobile UI | [Repository](https://github.com/george-killua/gk-compose-booking-ui) |
+| GK Showcase Builder | Interactive business template demos, builder-ready flows, reusable static frontend architecture | [Repo](https://github.com/george-killua/gk-showcase-builder) · [Live](https://showcase.gkcoding.dev) |
+| Ride-Hailing Platform Demo | Booking, dispatch simulation, pricing, live map UI, market configuration | [Repo](https://github.com/george-killua/gk-ride-hailing-platform-demo) · [Live](https://rides.gkcoding.dev) |
+| GK Compose Booking UI | Kotlin, Jetpack Compose, Material 3, service booking flow, premium mobile UI | [Repo](https://github.com/george-killua/gk-compose-booking-ui) |
 
 ## Tech Stack
 
